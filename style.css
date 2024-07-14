@@ -1,0 +1,18 @@
+*{ 
+  font-family: JetBrains Mono NerdFont; 
+  font-size: 16px; 
+}
+
+#waybar {
+  background-color: #232136;
+  color: #e0def4;
+}
+
+#clock,
+#memory,
+#pulseaudio,
+#tray,
+#window,
+#workspaces {
+    margin: 0 10px;
+}
