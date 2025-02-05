@@ -19,7 +19,7 @@ To run my config, you'll need these software:
 
 ## Moving files
 
-You should move the `config` and `style.css` to `~/.config/waybar`.
+You should move the `config` and `style.css` to `~/.config/waybar` and just move the rest to `~/.config/hypr`.
 
 ## Change background
 
